@@ -7,7 +7,7 @@ A dark GitHub theme for [Vim](https://www.vim.org/) and [NeoVim](https://neovim.
 ## Install
 To install using [vim-plug](https://github.com/junegunn/vim-plug) add this line to your `vimrc`:  
 ```vim
-Plug 'wojciechkepka/vim-github-dark'
+Plug 'bernadotornado/ghdark.vim'
 ```
 
 To later use it add this line to your `init.vim` or `.vimrc` file:
